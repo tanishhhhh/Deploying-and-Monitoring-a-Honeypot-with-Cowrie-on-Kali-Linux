@@ -1,0 +1,1 @@
+# Deploying-and-Monitoring-a-Honeypot-with-Cowrie-on-Kali-Linux
